@@ -5,6 +5,7 @@ import Contact from "./pages/Contact";
 import Policy from "./pages/Policy";
 import Pagenotfound from "./pages/PageNotFound";
 import Register from "./pages/Auth/Register";
+
 function App() {
   return (
     <>
